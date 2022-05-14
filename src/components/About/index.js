@@ -10,9 +10,9 @@ function About(props) {
           <h2 id="about-title">About Me</h2>
           <img src={profilePic} alt="profile-pic" className="profile-pic" />
         </div>
-        <div class="column"></div>
-        <div class="main-section-content">
-          <p class="about-p">
+        <div className="column"></div>
+        <div className="main-section-content">
+          <p className="about-p">
             I cannot imagine my life without coding. I always thought my dream
             was to be a missionary in a Spanish-speaking country. This seemed
             appropriate since I received a BA in Ministry and I was a women's

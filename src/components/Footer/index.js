@@ -2,16 +2,16 @@ import React from "react";
 
 function Footer(props) {
   return (
-    <div class="footer-basic" id="contact-me">
+    <div className="footer-basic" id="contact-me">
       <footer>
-        <div class="column"></div>
-        <div class="social">
+        <div className="column"></div>
+        <div className="social">
           <a
             href="https://www.linkedin.com/in/sara-oros1018/"
             target="_blank"
             rel="noreferrer"
           >
-            <i class="icon ion-social-linkedin"></i>
+            <i className="icon ion-social-linkedin"></i>
           </a>
 
           <a
@@ -19,15 +19,15 @@ function Footer(props) {
             target="_blank"
             rel="noreferrer"
           >
-            <i class="icon ion-social-github"></i>
+            <i className="icon ion-social-github"></i>
           </a>
         </div>
-        <ul class="list-inline">
+        <ul className="list-inline">
           <li>
             <a href="mailto:saragochez13@gmail.com"> Email Me Here</a>
           </li>
         </ul>
-        <p class="copyright">© 2022 Sara Oros</p>
+        <p className="copyright">© 2022 Sara Oros</p>
       </footer>
     </div>
   );

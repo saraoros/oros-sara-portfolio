@@ -44,8 +44,8 @@ function Portfolio(props) {
         Portfolio
       </h2>
       <section id="work">
-        <div class="column"></div>
-        <div id="work-imgs-container" class="main-section-content">
+        <div className="column"></div>
+        <div id="work-imgs-container" className="main-section-content">
           {workArr.map((work) => {
             return <Project work={work} />;
           })}

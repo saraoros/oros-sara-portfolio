@@ -29,17 +29,19 @@ function Resume() {
             <ul className="mt-3 mb-5 ml-5">
               <li>SQL</li>
               <li>HTML</li>
-              <li>CSS/Bootstrap</li>
+              <li>CSS</li>
+              <li>Bootstrap</li>
+             <li>Object Relational Mapping</li>
+              <li>Model-View-Controller</li> 
               <li>GraphQL</li>
-              <li>Object Relational Mapping</li>
-              <li>Model-View-Controller</li>
+              
             </ul>
             <ul className="mt-3 mb-5 ml-5">
               <li>Web APIs</li>
               <li>Third Party APIs</li>
               <li>Server-Side APIs</li>
-              <li>Object Oriented Programming</li>
               <li>Progressive Web Applications</li>
+              <li>Object Oriented Programming</li>
               <li>Leadership & Organizational Skills</li>
             </ul>
           </div>
