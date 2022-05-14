@@ -1,5 +1,5 @@
 import React from "react";
-import profilePic from "../../assets/images/assets/profile-pic.jpeg";
+import profilePic from "../../assets/images/profile-pic.jpeg";
 import "./style.css";
 
 function About(props) {
@@ -36,15 +36,7 @@ function About(props) {
             that comes from building a clean user interface, mobile responsive
             web application using both front end and back end technologies. My
             specialties include quickly learning new programming languages and
-            problem solving. So far I have experience with HTML, CSS, Bootstrap,
-            UiKit framework, Third-Party APIs, JavaScript, Handlebars, Node.js,
-            Test Driven Development (TDD), Object-Oriented programming (OOP),
-            Model-View-Controller (MVC), RESTful routes, Bcrypt, mySQL,
-            Sequelize, Dotenv, Express.js, express-sessions, middleware
-            functions, withAuth, Nodemailer, Git, GitHub, Heroku. Excitingly, I
-            am currently learning about computer science for JavaScript, NoSQL,
-            React, MongoDB, Progressive Web Applications (PWA), MERN and
-            GraphQL.
+            problem solving. 
           </p>
         </div>
       </section>

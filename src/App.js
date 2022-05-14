@@ -1,5 +1,9 @@
 import "./App.css";
-import About from "./Components/About";
+import About from "./components/About";
+import Footer from "./components/Footer";
+import Portfolio from "./components/Portfolio";
+import Header from "./components/Header";
+import Resume from "./components/Resume";
 import { useState } from "react";
 
 function App() {
