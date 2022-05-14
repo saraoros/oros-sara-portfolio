@@ -60,7 +60,7 @@ header h1:hover {
 }
 
 main {
-  background-color: darkslategrey;
+  background-color: rgb(154, 124, 124);
 }
 
 #header-img {
@@ -88,7 +88,7 @@ main {
 #header-img h2 {
   margin-right: 45px;
   color: rgb(236, 235, 235);
-  background-color: rgba(47, 79, 79, 0.733);
+  background-color: rgba(252, 253, 253, 0.733);
   font-weight: bold;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 50px;
@@ -109,7 +109,7 @@ main {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   display: flex;
   justify-content: center;
-  color: rgb(211, 203, 192)
+  color: rgb(211, 203, 192);
 }
 
 .about-p {
@@ -131,7 +131,7 @@ main {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  background-color: darkslategray;
+  background-color: rgb(154, 124, 124);
   padding: 40px;
 }
 
@@ -153,24 +153,24 @@ main {
 .big-box-1 {
   width: 100%;
   height: 400px;
-  background-image: url("https: //github.com/saraoros/covid-testing-locations/raw/main/assets/images/ss1.png");
+  background-image: url("../src/assets/images/covid-19.png");
   background-size: cover;
   display: flex;
   align-items: flex-end;
   border-radius: 3%;
-  border: 3px solid rgb(36, 59, 208);
+  border: 3px solid rgb(211, 203, 192);
   margin-bottom: 50px;
 }
 
 .big-box-2 {
   width: 100%;
   height: 400px;
-  background-image: url("https: //github.com/saraoros/lets-talk-tech-blog/raw/main/public/images/letstalktech3.png");
+  background-image: url("../src/assets/images/letstalktech3.png");
   background-size: cover;
   display: flex;
   align-items: flex-end;
   border-radius: 3%;
-  border: 3px solid rgb(36, 59, 208);
+  border: 3px solid rgb(0, 0, 0);
 }
 
 .pic-label {
@@ -180,7 +180,7 @@ main {
   justify-content: space-around;
   align-items: center;
   margin-bottom: 32px;
-  text-decoration-color: rgb(98, 98, 140);
+  text-decoration-color: rgb(0, 0, 0);
 }
 
 .pic-label button {
@@ -188,11 +188,12 @@ main {
 }
 
 .half-box {
-  width: 435px;
-  height: 228px;
+  width: 400px;
+  height: 200px;
   margin-top: 50px;
   background-size: cover;
-  border: 8px solid rgb(38, 22, 95);
+  border-radius: 3%;
+  border: 3px solid rgb(211, 203, 192);
   display: flex;
   align-items: flex-end;
 }
@@ -225,11 +226,11 @@ main {
 }
 
 #half-box1 {
-  background-image: url("https: //github.com/saraoros/readme-generator/raw/main/develop/images/sampleREADME.png");
+  background-image: url("../src/assets/images/sampleREADME.png");
 }
 
 #half-box2 {
-  background-image: url("https: //github.com/saraoros/js-password-generator/raw/main/Develop/pass-gen-ss.png");
+  background-image: url("../src/assets/images/pass-gen-ss.png");
 }
 
 
@@ -241,7 +242,7 @@ main {
 
 .footer-basic {
   padding:40px 0;
-  background-color: rgb(27, 44, 44);
+  background-color: rgb(166, 164, 138);
   color:#000000;
 }
 
@@ -267,7 +268,7 @@ main {
 
 .footer-basic ul a:hover {
   opacity:1;
-  color: rgb(112, 96, 215);
+  color: rgb(198, 196, 210);
 }
 
 .footer-basic .social {
