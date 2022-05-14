@@ -24,7 +24,7 @@ function Footer(props) {
         </div>
         <ul class="list-inline">
           <li>
-            <a href="mailto:saragochez13@gmail.com">Email Me Here</a>
+            <a href="mailto:saragochez13@gmail.com"> Email Me Here</a>
           </li>
         </ul>
         <p class="copyright">© 2022 Sara Oros</p>
