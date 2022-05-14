@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/oros-sara-portfolio/static/css/main.40a4202e.css",
+    "main.js": "/oros-sara-portfolio/static/js/main.63be7a6f.js",
+    "static/js/787.3d183673.chunk.js": "/oros-sara-portfolio/static/js/787.3d183673.chunk.js",
+    "static/media/letstalktech3.png": "/oros-sara-portfolio/static/media/letstalktech3.fb1f52e45f8e604dcfc3.png",
+    "static/media/covid-19.png": "/oros-sara-portfolio/static/media/covid-19.a0732f24c776bb309cca.png",
+    "static/media/sampleREADME.png": "/oros-sara-portfolio/static/media/sampleREADME.d4411f45389d90f7dbf7.png",
+    "static/media/oros-sara.pdf": "/oros-sara-portfolio/static/media/oros-sara.e8c2757d54738ad7a42b.pdf",
+    "static/media/pass-gen-ss.png": "/oros-sara-portfolio/static/media/pass-gen-ss.6d21674f7208cb45ce66.png",
+    "static/media/profile-pic.jpeg": "/oros-sara-portfolio/static/media/profile-pic.71617240ab3691428b7c.jpeg",
+    "index.html": "/oros-sara-portfolio/index.html",
+    "main.40a4202e.css.map": "/oros-sara-portfolio/static/css/main.40a4202e.css.map",
+    "main.63be7a6f.js.map": "/oros-sara-portfolio/static/js/main.63be7a6f.js.map",
+    "787.3d183673.chunk.js.map": "/oros-sara-portfolio/static/js/787.3d183673.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40a4202e.css",
+    "static/js/main.63be7a6f.js"
+  ]
+}
