@@ -34,7 +34,6 @@ function Resume() {
              <li>Object Relational Mapping</li>
               <li>Model-View-Controller</li> 
               <li>GraphQL</li>
-              
             </ul>
             <ul className="mt-3 mb-5 ml-5">
               <li>Web APIs</li>

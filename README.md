@@ -15,10 +15,7 @@
 
   - This portfolio has the latest projects that I have been personally working on. This portfolio also includes my personal links to projects, GitHub, LinkedIn and my resume. This is an ever evolving profile so feel free to stop by frequently to see what's new!
   <br />
-<img src="./src/assets/images/about-me.png" />
-<br />
-<img src="./src/assets/images/tech-page.png" />
-<br />
+
 
   # Installation
 
